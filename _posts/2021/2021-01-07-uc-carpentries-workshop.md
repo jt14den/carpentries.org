@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Community", "University of California"]
 ---
 ## Introduction
-This Carpentries workshop ran online over the course of 3 weeks. 
+This Carpentries workshop ran online over the course of 3 weeks. OK
 
 * Week 1: Unix shell, Git/GitHub, SQL (one lesson per day, 9am-12pm)
 * Week 2: R (3 days, 9am-12pm)
