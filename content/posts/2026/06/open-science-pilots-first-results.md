@@ -14,7 +14,7 @@ tags:
   - Community
 ---
 
-In February we [called on the Carpentries community](/blog/2026/02/calling-community-pilots-open-science-lessons/) to help pilot 14 new open science lessons for librarians, developed through an IMLS-funded project led by the UCLA Library Data Science Center. People signed up. Now the first of those pilots have taught, and we're starting to see what the feedback loop actually produces.
+In February we [called on the Carpentries community](https://carpentries.org/blog/2026/02/calling-community-pilots-open-science-lessons/) to help pilot 14 new open science lessons for librarians, developed through an IMLS-funded project led by the UCLA Library Data Science Center. People signed up. Now the first of those pilots have taught, and we're starting to see what the feedback loop actually produces.
 
 ## Who Has Taught
 
