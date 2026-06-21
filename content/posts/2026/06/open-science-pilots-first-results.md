@@ -3,7 +3,12 @@ layout: page
 draft: true
 authors:
   - Tim Dennis
-  - Library Carpentry Curriculum Advisory Committee
+  - Nicky Garland
+  - Ekatarina Grguric
+  - Cody Hennesy
+  - Nathaniel Porter
+  - Lebogang Seleka
+  - Jennifer Stubbs
 teaser: "In February we asked the Carpentries community to help pilot 14 new open science lessons for librarians. The first of those pilots have now taught, and the feedback is already changing the lessons."
 title: "The First Pilots Have Taught. Here Is What Came Back."
 date: 2026-06-17
@@ -38,7 +43,7 @@ Jennifer Stubbs taught DMP 101 on May 19 at Bradley University through CARLI. Du
 
 Two more pilots from the call are scheduled:
 
-- [Containers and Virtual Machines](https://librarycarpentry.github.io/lc-containers_vms/) at UC Santa Barbara on July 15, organized by Jose Niño Muriel and taught with the Carpentry @ UCSB community. Jose is now The Carpentries' Maintainer Community Lead.
+- A second [Containers and Virtual Machines](https://librarycarpentry.github.io/lc-containers_vms/) pilot at UC Santa Barbara on July 15, organized by Jose Niño Muriel and taught with the Carpentry @ UCSB community. Jose is now The Carpentries' Maintainer Community Lead.
 - [Open Qualitative Research (QualCoder)](https://librarycarpentry.github.io/lc-qualitative-qualcoder/) at George Washington University in late summer, organized by Emily Blumenthal, with early interest from GW's schools of medicine, public health, and education.
 
 If you signed up, now is a good time to connect with the lesson authors before your session. Check the issue in the lesson repo for your pilot, or reach out.
