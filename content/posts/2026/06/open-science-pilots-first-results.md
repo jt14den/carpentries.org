@@ -37,13 +37,13 @@ Three community pilots across three lessons, all taught in 2026 by instructors w
 
 Nathaniel Porter's post-pilot notes on Data Dashboards with R ran to 20 specific items: timing estimates that were off, accessibility language to fix, screenshot quality issues, a code block with a logic error. The kind of review that doesn't come from the people who wrote the lesson. Lesson author Aditya Ranganath is working through the list.
 
-Jennifer Stubbs taught DMP 101 on May 19 at Bradley University through CARLI. During prep she flagged two live funder policy changes the lesson needs to address: NSF Policy Notice 26-202, which moves Data Management and Sharing Plans into a guided webform on Research.gov (required for new proposals as of April 27, 2026) instead of an uploaded PDF, and an updated NIH Data Management and Sharing form. In the session, episode 1 ran 45 minutes, stretched by questions from the group's grants officer. Episode 2 got raced through in 20. Episodes 3 through 5 were never reached in the two hours. She didn't follow the script closely, but a notetaker said it sounded natural throughout. (DMP 101 was already an adopted Library Carpentry lesson going into the pilot.)
+Jennifer Stubbs taught DMP 101 on May 19 at Bradley University through CARLI. During prep she flagged two live funder policy changes the lesson needs to address: NSF Policy Notice 26-202, which moves Data Management and Sharing Plans into a guided webform on Research.gov (required for new proposals as of April 27, 2026) instead of an uploaded PDF, and the new 2026 NIH Data Management and Sharing form, required for application due dates on or after May 25, 2026. In the session, episode 1 ran 45 minutes, stretched by questions from the group's grants officer. Episode 2 got raced through in 20. Episodes 3 through 5 were never reached in the two hours. She didn't follow the script closely, but a notetaker said it sounded natural throughout. (DMP 101 was already an adopted Library Carpentry lesson going into the pilot.)
 
 ## Teaching Next
 
 Two more pilots from the call are scheduled:
 
-- A second [Containers and Virtual Machines](https://librarycarpentry.github.io/lc-containers_vms/) pilot at UC Santa Barbara on July 15, organized by Jose Niño-Muriel and taught with the Carpentry @ UCSB community. Jose is Carpentry Community Lead at UCSB's DREAM Lab and now The Carpentries' Maintainer Community Lead.
+- A second [Containers and Virtual Machines](https://librarycarpentry.github.io/lc-containers_vms/) pilot being planned at UC Santa Barbara this summer, organized by Jose Niño-Muriel and taught with the Carpentry @ UCSB community. Jose is Carpentry Community Lead at UCSB's DREAM Lab and now The Carpentries' Maintainer Community Lead.
 - [Open Qualitative Research (QualCoder)](https://librarycarpentry.github.io/lc-qualitative-qualcoder/) at George Washington University in late summer, organized by Emily Blumenthal, with early interest from GW's schools of medicine, public health, and education.
 
 If you signed up, now is a good time to connect with the lesson authors before your session. Check the issue in the lesson repo for your pilot, or reach out.
