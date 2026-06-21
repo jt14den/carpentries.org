@@ -21,7 +21,7 @@ tags:
 
 In February we [called on the Carpentries community](https://carpentries.org/blog/2026/02/calling-community-pilots-open-science-lessons/) to help pilot 14 new open science lessons for librarians, developed through an IMLS-funded project led by the UCLA Library Data Science Center. People signed up. Now the first of those pilots have taught, and we're starting to see what the feedback loop actually produces.
 
-## Who Has Taught
+## Who has taught
 
 Thank you to the instructors who answered the call, ran a session, and took the time to report back:
 
@@ -33,13 +33,13 @@ Thank you to the instructors who answered the call, ran a session, and took the 
 
 Three community pilots across three lessons, all taught in 2026 by instructors who did not write the lesson. That is exactly the test these materials need. More are on the calendar.
 
-## What the Feedback Looks Like
+## What the feedback looks like
 
 Nathaniel Porter's post-pilot notes on Data Dashboards with R ran to 20 specific items: timing estimates that were off, accessibility language to fix, screenshot quality issues, a code block with a logic error. The kind of review that doesn't come from the people who wrote the lesson. Lesson author Aditya Ranganath is working through the list.
 
 Jennifer Stubbs taught DMP 101 on May 19 at Bradley University through CARLI. During prep she flagged two live funder policy changes the lesson needs to address: NSF Policy Notice 26-202, which moves Data Management and Sharing Plans into a guided webform on Research.gov (required for new proposals as of April 27, 2026) instead of an uploaded PDF, and the new 2026 NIH Data Management and Sharing form, required for application due dates on or after May 25, 2026. In the session, episode 1 ran 45 minutes, stretched by questions from the group's grants officer. Episode 2 got raced through in 20. Episodes 3 through 5 were never reached in the two hours. She didn't follow the script closely, but a notetaker said it sounded natural throughout. (DMP 101 was already an adopted Library Carpentry lesson going into the pilot.)
 
-## Teaching Next
+## Teaching next
 
 Two more pilots from the call are scheduled:
 
@@ -48,7 +48,7 @@ Two more pilots from the call are scheduled:
 
 If you signed up, now is a good time to connect with the lesson authors before your session. Check the issue in the lesson repo for your pilot, or reach out.
 
-## A Few Things We Have Learned
+## A few things we have learned
 
 **Lessons run longer than stated.** Build in buffer, especially for technical setup. The stated durations are targets, not guarantees.
 
@@ -56,7 +56,7 @@ If you signed up, now is a good time to connect with the lesson authors before y
 
 **Specific feedback is the useful kind.** The pilots who filed GitHub issues with concrete, line-level notes gave the authors something to act on. General impressions are harder to turn into improvements.
 
-## We Are Still Looking for Instructors
+## We are still looking for instructors
 
 Every lesson can use more pilots. These are the ones with no first pilot yet:
 
@@ -67,6 +67,6 @@ Every lesson can use more pilots. These are the ones with no first pilot yet:
 - [Multilingual Search and Discovery](https://ucla-imls-open-sci.info/lc-multilingual-search-discovery-system/)
 - [NASA SciX for Librarians](https://ucla-imls-open-sci.info/lc-scix-open-science/)
 
-All run 1.5 to 4 hours. You don't need to be an expert in the topic. Browse everything on the [pilot page](https://ucla-imls-open-sci.info/pilot/), then [open a pilot interest issue](https://github.com/ucla-imls-open-sci/ucla-imls-open-sci.github.io/issues/new?template=pilot-interest.yml) or email tdennis@library.ucla.edu.
+All run 1.5 to 4 hours. You don't need to be an expert in the topic. Browse everything on the [pilot page](https://ucla-imls-open-sci.info/pilot/), then [open a pilot interest issue](https://github.com/ucla-imls-open-sci/ucla-imls-open-sci.github.io/issues/new?template=pilot-interest.yml) to let us know.
 
 Instructors who pilot and provide feedback are credited on the lesson page and in any future publications that reference the curriculum.
