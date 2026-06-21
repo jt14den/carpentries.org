@@ -43,7 +43,7 @@ Jennifer Stubbs taught DMP 101 on May 19 at Bradley University through CARLI. Du
 
 Two more pilots from the call are scheduled:
 
-- A second [Containers and Virtual Machines](https://librarycarpentry.github.io/lc-containers_vms/) pilot at UC Santa Barbara on July 15, organized by Jose Niño Muriel and taught with the Carpentry @ UCSB community. Jose is now The Carpentries' Maintainer Community Lead.
+- A second [Containers and Virtual Machines](https://librarycarpentry.github.io/lc-containers_vms/) pilot at UC Santa Barbara on July 15, organized by Jose Niño-Muriel and taught with the Carpentry @ UCSB community. Jose is Carpentry Community Lead at UCSB's DREAM Lab and now The Carpentries' Maintainer Community Lead.
 - [Open Qualitative Research (QualCoder)](https://librarycarpentry.github.io/lc-qualitative-qualcoder/) at George Washington University in late summer, organized by Emily Blumenthal, with early interest from GW's schools of medicine, public health, and education.
 
 If you signed up, now is a good time to connect with the lesson authors before your session. Check the issue in the lesson repo for your pilot, or reach out.
